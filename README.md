@@ -56,4 +56,4 @@ This project is licensed under the MIT License.
 ## Contact
 For any inquiries, reach out to:
 - **Email:** pavithrahn56@gmail.com
-- **GitHub:** (https://github.com/Vruthvik48)
+- **GitHub:** (https://github.com/pavithra-hn)
